@@ -33,5 +33,5 @@ chmod +x run
 
 | Day | Name | Part 1 | Part 2 | Notes |
 |:---:|:---|:---:|:---:|:---|
-| 01 | [Day 1: The Dial Challenge](src/Day01.java) | ⭐ | ⭐ | Modulo arithmetic, cyclical wrapping |
-| 02 | [Day 2: Invalid ID Search](src/Day02.java) | ⭐ | ⭐ | String pattern matching, Ranges |
+| 01 | [Day 1: Secret Entrance](src/Day01.java) | ⭐ | ⭐ | Modulo arithmetic, cyclical wrapping |
+| 02 | [Day 2: Gift Shop](src/Day02.java) | ⭐ | ⭐ | String pattern matching, Ranges |
