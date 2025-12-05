@@ -35,3 +35,4 @@ chmod +x run
 |:---:|:---|:---:|:---:|:---|
 | 01 | [Day 1: Secret Entrance](src/Day01.java) | ⭐ | ⭐ | Modulo arithmetic, cyclical wrapping |
 | 02 | [Day 2: Gift Shop](src/Day02.java) | ⭐ | ⭐ | String pattern matching, Ranges |
+| 03 | [Day 3: Lobby](src/Day03.java) | ⭐ | ⭐ | Greedy Algorithm, Subsequence logic |
